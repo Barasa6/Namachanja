@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer and undergraduate with a focus on clean architecture. I bridge the gap between performance-critical systems in C++ and modern web development using Java script, HTML & CSS. <br>I leverage Python for backend logic & data-driven tasks, ensuring efficient and readable code. As I complete my final year, I’m seeking opportunities to apply this multi-language proficiency to high-impact, real-world challenges.<br>
+Full-stack developer and undergraduate with a focus on architecture. My areas of expertise are C++ and modern web development using Java script, HTML & CSS. <br>I also leverage Python for backend logic & data-driven tasks, ensuring efficient and readable code. As I complete my final year, I’m seeking opportunities to apply my knowledge proficiency to high-impact, real-world challenges.<br>
 
 
 ## 🌐 Socials:
